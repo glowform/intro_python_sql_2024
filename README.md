@@ -1,4 +1,4 @@
-# Python and SQL: intro / SQL platforms
+# Python and SQL: intro / SQL platforms 2024/2025
 Course materials for Python and SQL: intro / SQL platforms - UW\
 dr Jakub Michańków, email: j.michankow@uw.edu.pl
 
