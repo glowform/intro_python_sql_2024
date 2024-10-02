@@ -32,5 +32,8 @@ Use of generative AI is allowed only to **help** you with your coding. Any parts
 
 Plagiarism is not tolerated in any form (including self-plagiarism). You are not allowed to copy parts from one project to another and you always need to provide an exact source.
 
+## Assignments
+03.10.2024 - Intro - Download and install [Python](https://www.python.org/downloads/), download and install [VSCode](https://code.visualstudio.com/download). Try to run a simple code, e.g. `print(2+2)`.
+
 
 ## Annoucements
