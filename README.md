@@ -21,8 +21,8 @@ https://meet.google.com/rfw-gtmc-ytv
 - Written test (40%)
 
 ## Deadlines
-- Project proposal: XXX October - topic and and members of your team (3 ppl), send via email.
-- Presetations: XXX November - Around 5 mins, the presentation need to include slides with title page with team members, why you chose you topic, how you want to solve the problem, short description of the tools you are going to use, and short description of each team member responsibilities.
+- Project proposal: XXX October - choose the topic and and members of your team (3 people), send via email.
+- Presetations: XXX November - Around 5 mins, the presentation needs to include slides with title page (including authors), information on why you chose you topic, how you want to solve the problem, short description of the tools you are going to use and short description of each team member responsibilities.
 - Project delivery: XXX January - Practical project will be a progam of your design, built with Python and any SQL language.
 - Test: XXX
 
