@@ -19,6 +19,7 @@ https://meet.google.com/rfw-gtmc-ytv
 ## Requirements and grading
 - Project and presentation (60%)
 - Written test (40%)
+To pass the course you need at least 60% total AND at least 20.5%(51%) from the test.
 
 ## Deadlines
 - Project proposal: XXX October - choose the topic and and members of your team (3 people), send via email.
