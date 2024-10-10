@@ -34,7 +34,7 @@ Use of generative AI is allowed only to **help** you with your coding. Any parts
 
 Plagiarism is not tolerated in any form (including self-plagiarism). You are not allowed to copy parts from one project to another and you always need to provide an exact source.
 
-## Assignments
+## Meetings
 - 03.10.2024 - Intro - Download and install [Python](https://www.python.org/downloads/), download and install [VSCode](https://code.visualstudio.com/download). Try to run a simple code, e.g. `print(2+2)`.
 - 10.10.2024 - Python basics. [Lecture 1 notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/01_Python_basics.ipynb), [Exercise 1 Notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/exercises/ex_01.ipynb) 
 
