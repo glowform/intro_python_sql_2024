@@ -40,7 +40,8 @@ Plagiarism is not tolerated in any form (including self-plagiarism). You are not
 - 17.10.2024 - Flow control. [Lecture 2 notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/02_Memory_flow_control.ipynb), [Exercise 2 Notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/exercises/ex_02.ipynb)
 - 24.10.2024 - Functions and objects. [Lecture 3 notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/03_Functions_and_Objects.ipynb), [Exercise 3 Notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/exercises/ex_03.ipynb)
 - 31.10.2024 - Numpy. [Lecture 4 notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/04_NumPy.ipynb), [Exercise 4 Notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/exercises/ex_04.ipynb)
-- 07 & 14.11.2024 - Pandas. [Lecture 5 notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/05_Pandas.ipynb), [Exercise 5 Notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/exercises/ex_05.ipynb) 
+- 07 & 14.11.2024 - Pandas. [Lecture 5 notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/05_Pandas.ipynb), [Exercise 5 Notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/exercises/ex_05.ipynb)
+- 21.11.2024 - SQL part 1 [Lecture 6 notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/06_SQL_python.ipynb), [Exercise 6 Notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/exercises/ex_06.ipynb)
 
 
 ## Annoucements
