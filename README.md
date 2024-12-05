@@ -42,7 +42,7 @@ Plagiarism is not tolerated in any form (including self-plagiarism). You are not
 - 31.10.2024 - Numpy. [Lecture 4 notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/04_NumPy.ipynb), [Exercise 4 Notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/exercises/ex_04.ipynb)
 - 07 & 14.11.2024 - Pandas. [Lecture 5 notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/05_Pandas.ipynb), [Exercise 5 Notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/exercises/ex_05.ipynb)
 - 21.11.2024 - SQL part 1 [Lecture 6 notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/06_SQL_python.ipynb), [Exercise 6 Notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/exercises/ex_06.ipynb)
-- 05.12.2024 - Visualizations [Lecture 7_0 notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/07_0_intro_visual.ipynb), [Lecture 7_1 Pandas notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/07_1_intro_visual_pandas.ipynb), [Lecture 7_2 Seaborn notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/07_2_intro_visual_seaborn.ipynb)
+- 05.12.2024 - Visualizations [Lecture 7_0 notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/07_0_intro_visual.ipynb), [Exercise 7_Notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/exercises/ex_07.ipynb)
 
 
 ## Annoucements
