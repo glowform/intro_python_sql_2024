@@ -46,7 +46,7 @@ Plagiarism is not tolerated in any form (including self-plagiarism). You are not
 - 12.12.2024 - Seaborn, Plotly [Lecture 7_2 notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/07_2_intro_visual_seaborn.ipynb)
 - 19.12.2024 - SQL pt 2 [Lecture 8 notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/08_SQLIntro_part2.ipynb)
 - 09.01.2025 (**asynchronous**) -  [Lecture 9 notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/09_Webb_apps_with_Python_-_Bottle.ipynb), [Exercise 9 Notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/exercises/ex_09_simple_web_app.ipynb)
-- 05.12.2024 - Visualizations [Lecture 10 notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/10 - JSON_XML_and_Webscrapping.ipynb), [Exercise 10 Notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/exercises/ex_10.ipynb)
+- 05.12.2024 - Visualizations [Lecture 10 notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/notebooks/10_JSON_XML_and_Webscrapping.ipynb), [Exercise 10 Notebook](https://github.com/glowform/intro_python_sql_2024/blob/main/exercises/ex_10.ipynb)
 
 
 ## Annoucements
