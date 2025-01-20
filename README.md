@@ -2,6 +2,11 @@
 Course materials for Python and SQL: intro / SQL platforms - UW\
 dr Jakub Michańków, email: j.michankow@uw.edu.pl
 
+## Final test
+Online, at meeting link below.
+Group 1: 24th Jan 2025, 13:15
+Group 4: 24th Jan 2025, 15:00
+
 ## Meeting link
 https://meet.google.com/rfw-gtmc-ytv
 
@@ -19,6 +24,7 @@ https://meet.google.com/rfw-gtmc-ytv
 ## Requirements and grading
 - Project and presentation (60%)
 - Written test (40%)
+- Final grade: 0.6 * project score + 0.4 * test score
   
 To pass the course you need at least 60% total AND at least 20.5%(51%) from the test.
 
