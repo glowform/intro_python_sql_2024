@@ -24,7 +24,7 @@ https://meet.google.com/rfw-gtmc-ytv
 ## Requirements and grading
 - Project and presentation (60%)
 - Written test (40%)
-- Final grade: 0.6 * project score + 0.4 * test score
+- Final grade: 0.6 * project score + 0.4 * test score + extra pts
   
 To pass the course you need at least 60% total AND at least 20.5%(51%) from the test.
 
