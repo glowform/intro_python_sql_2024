@@ -4,8 +4,8 @@ dr Jakub Michańków, email: j.michankow@uw.edu.pl
 
 ## Final test
 Online, at meeting link below.\
-Group 1: 24th Jan 2025, 13:15\
-Group 4: 24th Jan 2025, 15:00
+Group 1: 23th Jan 2025, 13:15\
+Group 4: 23th Jan 2025, 15:00
 
 ## Meeting link
 https://meet.google.com/rfw-gtmc-ytv
